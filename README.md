@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on [Qura'n GPT](https://github.com/users/naazimulrahman/projects/1)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
-
-- 💬 Ask me about ** * Machine Learning ,* Deep Learning ,* Natural Language Processing ,* Computer Vision , * LLMs**
+- 💬 Ask me about **Machine Learning , Deep Learning , Natural Language Processing , Computer Vision ,LLMs**
 
 - 📫 Contect me. **naazimulrahman@gmail.com**
 
