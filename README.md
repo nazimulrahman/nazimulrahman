@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nazim ul Rahman</h1>
-<h3 align="center">A passionate Deep learning Engineer at Best.</h3>
+<h1 align="center">Artificial Intelligence Engineer Nazim ul Rahman</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naazimulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="naazimulrahman" /> </p>
 
 - 🔭 I’m currently working on [Qura'n GPT](https://github.com/users/naazimulrahman/projects/1)
