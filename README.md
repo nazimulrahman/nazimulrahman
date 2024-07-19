@@ -7,6 +7,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="100" height="100"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="100" height="100"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="100" height="100"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="100" height="100"/> </a> </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=naazimulrahman&show_icons=true&locale=en" alt="naazimulrahman" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=naazimulrahman&" alt="naazimulrahman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naazimulrahman&show_icons=true&locale=en&layout=compact" alt="naazimulrahman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naazimulrahman&show_icons=true&locale=en" alt="naazimulrahman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naazimulrahman&" alt="naazimulrahman" /></p>
