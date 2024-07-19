@@ -1,4 +1,4 @@
-<h1 align="center">Artificial Intelligence Engineer Nazim ul Rahman</h1>
+<h1 align="center">Artificial Intelligence Engineer </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naazimulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="naazimulrahman" /> </p>
 
