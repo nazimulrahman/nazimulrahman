@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Artificial Intelligence**
 - 💬 Ask me about **Machine Learning , Deep Learning , Natural Language Processing , Computer Vision ,LLMs**
 
-- 📫 Contect me. **naazimulrahman@gmail.com**
+- 📫 Contact me. **naazimulrahman@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
